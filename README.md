@@ -1,4 +1,4 @@
-# *MERGED | DEPRECAteD*
+# *MERGED | DEPRECATED*
 This package has been merged into [svelte-intl](https://github.com/Panya/svelte-intl)
 
 # svelte-3-intl
