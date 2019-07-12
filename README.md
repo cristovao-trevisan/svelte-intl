@@ -1,3 +1,6 @@
+# *MERGED | DEPRECAteD*
+This package has been merged into [svelte-intl](https://github.com/Panya/svelte-intl)
+
 # svelte-3-intl
 
 [![NPM Version](https://img.shields.io/npm/v/svelte-3-intl.svg)](https://npm.im/svelte-3-intl)
